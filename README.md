@@ -1,1 +1,1 @@
-# A2AnishSiwakoti
+This is a small game application developed as part of Assignment for CST - Software Development Course at Sheridan College. The application is written with C# language. This application also uses a local SQL database for saving the match details with the progress in the application. This application demonstrates the use of connected model database.
